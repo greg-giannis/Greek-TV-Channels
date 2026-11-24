@@ -1,0 +1,43 @@
+#EXTM3U8
+#EXTINF:-1 ,﻿Netmax TV
+https://es1.crystalweb.net:1936/netmaxtv/netmaxtv/playlist.m3u8
+#EXTINF:-1 ,﻿Sierra Channel
+https://fr.crystalweb.net:1936/sierra/sierra/playlist.m3u8
+#EXTINF:-1 ,Free Angel TV
+https://kali.vdopanel.com:3722/live/freeangeltvlive.m3u8
+#EXTINF:-1 ,﻿Xalastra TV
+https://alpha.streamhub.gr/tv/hls/MWAF31fK8gUQ74QsNYoZI1Ld9NPtyrzm/playlist.m3u8?prefer=live&t=1779784256324
+#EXTINF:-1 ,﻿Cinema Classics
+https://tv.mediacp.eu:8081/cinemaclassics/index.m3u8
+#EXTINF:-1 ,﻿Choise TV
+https://eu1.streams.gr:8081/choicetv/index.m3u8
+#EXTINF:-1 ,﻿Groovy TV
+https://web.onair-radio.eu/groovytv/groovytv/playlist.m3u8
+#EXTINF:-1 ,Diavata tv
+https://183.giatvcdn.com/ssh101/ssh101/diavatatvweb/playlist.m3u8
+#EXTINF:-1 ,﻿Lampsi TV
+https://neon.streams.gr:8081/lampsitv/index.m3u8
+#EXTINF:-1 ,﻿Net TV Toronto
+https://eu1.streams.gr:8081/netvtoronto/index.m3u8
+#EXTINF:-1 ,﻿Αnt1 Cyprous TV
+https://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8
+#EXTINF:-1 ,﻿Αnt1 Comedy
+https://mcdn.antennaplus.gr/live/media0/Comedy/HLS/Comedy.m3u8
+#EXTINF:-1 ,﻿Dipolo TV
+https://mcv3.streams.gr/stream/dipolotv/index.m3u8
+#EXTINF:-1 ,﻿Ionia TV
+https://lbgo.bozztv.com/ssh101/ssh101/tvioniathess/playlist.m3u8
+#EXTINF:-1 ,﻿Galaxy TV
+https://183.giatvcdn.com/giatv/giatv-galaxygr/galaxygr/playlist.m3u8
+#EXTINF:-1 ,﻿DTA TV
+https://webinternetradio.eu:59820/dta.webm
+#EXTINF:-1 ,﻿Mr Bean TV
+https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
+#EXTINF:-1 ,﻿AΣΤΗΡ TV
+https://stream-cdn-iad3.vaughnsoft.net/play/live_astir.flv
+#EXTINF:-1 ,﻿Nexus TV
+https://stream-cdn-iad3.vaughnsoft.net/play/live_nexuschannel.flv
+#EXTINF:-1 ,﻿Golden Channel
+https://stream-cdn-iad3.vaughnsoft.net/play/live_goldenchannel.flv
+#EXTINF:-1 ,﻿Cinerama Channel
+https://stream-cdn-iad3.vaughnsoft.net/play/live_cineramachannel.flv
