@@ -13,15 +13,15 @@ https://tv.mediacp.eu:8081/cinemaclassics/index.m3u8
 https://eu1.streams.gr:8081/choicetv/index.m3u8
 #EXTINF:-1 ,﻿Groovy TV
 https://web.onair-radio.eu/groovytv/groovytv/playlist.m3u8
-#EXTINF:-1 ,Diavata tv
+#EXTINF:-1 ,Diavata TV
 https://183.giatvcdn.com/ssh101/ssh101/diavatatvweb/playlist.m3u8
 #EXTINF:-1 ,﻿Lampsi TV
 https://neon.streams.gr:8081/lampsitv/index.m3u8
 #EXTINF:-1 ,﻿Net TV Toronto
 https://eu1.streams.gr:8081/netvtoronto/index.m3u8
-#EXTINF:-1 ,﻿Αnt1 Cyprous TV
+#EXTINF:-1 ,﻿ΑNT1 Cyprous TV
 https://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8
-#EXTINF:-1 ,﻿Αnt1 Comedy
+#EXTINF:-1 ,﻿ΑNT1 Comedy
 https://mcdn.antennaplus.gr/live/media0/Comedy/HLS/Comedy.m3u8
 #EXTINF:-1 ,﻿Dipolo TV
 https://mcv3.streams.gr/stream/dipolotv/index.m3u8
